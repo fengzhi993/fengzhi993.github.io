@@ -1,0 +1,13 @@
+body {
+  background: url(/pictures/background.jpg);
+  background-size: cover;       /* 覆盖全屏 */
+  background-repeat: no-repeat; /* 不重复 */
+  background-attachment: fixed; /* 固定不滚动 */
+  background-position: center;  /* 居中 */
+}
+
+/* 让文章半透，方便看背景 */
+.main-inner, .post-body, .content-wrap {
+  background: rgba(255,255,255, 0.85);
+  opacity: 0.9;
+}
