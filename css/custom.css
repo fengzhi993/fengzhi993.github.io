@@ -11,3 +11,6 @@ body {
   background: rgba(255,255,255, 0.85);
   opacity: 0.9;
 }
+
+/* 彻底干掉打开时的蓝色背景 */
+#page-header { background: #fff !important; }
