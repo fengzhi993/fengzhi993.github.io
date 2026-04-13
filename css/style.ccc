@@ -1,6 +1,6 @@
 /* 引入汉仪行楷简 */
 @font-face {
-  font-family: '汉仪行楷简';
+  font-family: 'HYXingKai';
   src: url('/font/HanYiXingKaiJian-1') format('ttf');
   font-weight: normal;
   font-style: normal;
@@ -9,5 +9,5 @@
 
 /* 全局使用 */
 body {
-  font-family: '汉仪行楷简', "Microsoft YaHei", sans-serif !important;
+  font-family: 'HYXingKai', "Microsoft YaHei", sans-serif !important;
 }
