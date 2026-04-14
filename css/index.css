@@ -4310,7 +4310,7 @@ figure.highlight pre .javascript .function {
 }
 @media screen and (min-width: 768px) {
   #page-header #site-title {
-    font-size: 2.85em;
+    font-size: 3.85em;
   }
 }
 #page-header #site-subtitle {
@@ -4319,7 +4319,7 @@ figure.highlight pre .javascript .function {
 }
 @media screen and (min-width: 768px) {
   #page-header #site-subtitle {
-    font-size: 1.72em;
+    font-size: 2em;
   }
 }
 #page-header #site_social_icons {
@@ -4351,7 +4351,7 @@ figure.highlight pre .javascript .function {
   font-size: 20px;
 }
 #page-header.not-home-page {
-  height: 400px;
+  height: 230px;
 }
 @media screen and (max-width: 768px) {
   #page-header.not-home-page {
@@ -4370,7 +4370,7 @@ figure.highlight pre .javascript .function {
   }
 }
 #page-header.post-bg {
-  height: 250px;
+  height: 230px;
 }
 @media screen and (max-width: 768px) {
   #page-header.post-bg {
