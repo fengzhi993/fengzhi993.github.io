@@ -1853,7 +1853,7 @@ button {
   touch-action: manipulation;
 }
 a {
-  color: #99a9bf;
+  color: #77b973;
   text-decoration: none;
   word-wrap: break-word;
   -webkit-transition: all 0.2s;
@@ -1864,7 +1864,7 @@ a {
   overflow-wrap: break-word;
 }
 a:hover {
-  color: #49b1f5;
+  color: #368d27;
 }
 .text-center {
   text-align: center;
@@ -5344,7 +5344,7 @@ figure.highlight pre .javascript .function {
   overflow-wrap: break-word;
 }
 .container a {
-  color: #77b973;
+  color: #49b1f5;
 }
 .container a:hover {
   text-decoration: underline;
