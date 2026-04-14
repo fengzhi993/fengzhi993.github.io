@@ -5370,7 +5370,7 @@ figure.highlight pre .javascript .function {
   margin: 0 3px;
   padding: 3px 5px;
   border: 1px solid #b4b4b4;
-  background-color: #f8f8f8;
+  background-color: #e62222;
   -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.25), 0 2px 1px 0 rgba(255,255,255,0.6) inset;
   box-shadow: 0 1px 3px rgba(0,0,0,0.25), 0 2px 1px 0 rgba(255,255,255,0.6) inset;
   color: #34495e;
@@ -5414,9 +5414,9 @@ figure.highlight pre .javascript .function {
   margin: 8px 8px 8px 0;
   padding: 0 12px;
   width: fit-content;
-  border: 1px solid #9ac992;
+  border: 1px solid #368d27;
   border-radius: 12px;
-  color: #9ac992;
+  color: #368d27;
   font-size: 0.85em;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -5425,7 +5425,7 @@ figure.highlight pre .javascript .function {
   transition: all 0.2s ease-in-out;
 }
 #post .tag_share .post-meta__tags:hover {
-  background: #49b1f5;
+  background: #368d27;
   color: var(--white);
 }
 #post .tag_share .post-share {
@@ -5469,7 +5469,7 @@ figure.highlight pre .javascript .function {
   box-shadow: 0 0 8px 0 rgba(232,237,250,0.6), 0 2px 4px 0 rgba(232,237,250,0.5);
 }
 #post .post-copyright .post-copyright-meta {
-  color: #9ac992;
+  color: #77b973;
   font-weight: bold;
 }
 #post .post-copyright .post-copyright-meta i {
