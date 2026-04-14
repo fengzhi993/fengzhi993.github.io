@@ -5414,9 +5414,9 @@ figure.highlight pre .javascript .function {
   margin: 8px 8px 8px 0;
   padding: 0 12px;
   width: fit-content;
-  border: 1px solid #49b1f5;
+  border: 1px solid #9ac992;
   border-radius: 12px;
-  color: #49b1f5;
+  color: #9ac992;
   font-size: 0.85em;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -5460,7 +5460,7 @@ figure.highlight pre .javascript .function {
   position: absolute;
   top: 2px;
   right: 12px;
-  color: #49b1f5;
+  color: #9ac992;
   content: '\f1f9';
   font-size: 1.3em;
 }
@@ -5469,7 +5469,7 @@ figure.highlight pre .javascript .function {
   box-shadow: 0 0 8px 0 rgba(232,237,250,0.6), 0 2px 4px 0 rgba(232,237,250,0.5);
 }
 #post .post-copyright .post-copyright-meta {
-  color: #6cfe52;
+  color: #9ac992;
   font-weight: bold;
 }
 #post .post-copyright .post-copyright-meta i {
