@@ -5342,7 +5342,6 @@ figure.highlight pre .javascript .function {
 .container {
   word-wrap: break-word;
   overflow-wrap: break-word;
-  background-color: transparent;
 }
 .container a {
   color: #49b1f5;
