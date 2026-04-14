@@ -2221,7 +2221,7 @@ figure.highlight pre .javascript .function {
 .article-sort {
   margin-left: 10px;
   padding-left: 20px;
-  border-left: 2px solid #aadafa;
+  border-left: 2px solid #9ac992;
 }
 .article-sort-title {
   position: relative;
@@ -2231,7 +2231,7 @@ figure.highlight pre .javascript .function {
   font-size: 1.72em;
 }
 .article-sort-title:hover:before {
-  border-color: var(--pseudo-hover);
+  border-color: #368d27;
 }
 .article-sort-title:before {
   position: absolute;
@@ -2240,7 +2240,7 @@ figure.highlight pre .javascript .function {
   z-index: 1;
   width: 10px;
   height: 10px;
-  border: 5px solid #49b1f5;
+  border: 5px solid #9ac992;
   border-radius: 10px;
   background: var(--card-bg);
   content: '';
@@ -2283,14 +2283,14 @@ figure.highlight pre .javascript .function {
   transition: all 0.2s ease-in-out;
 }
 .article-sort-item:hover:before {
-  border-color: var(--pseudo-hover);
+  border-color: #368d27;
 }
 .article-sort-item:before {
   position: absolute;
   left: calc(-20px - 17px);
   width: 6px;
   height: 6px;
-  border: 3px solid #49b1f5;
+  border: 3px solid #9ac992;
   border-radius: 6px;
   background: var(--card-bg);
   content: '';
@@ -2311,10 +2311,10 @@ figure.highlight pre .javascript .function {
   margin-bottom: 10px;
 }
 .article-sort-item.year:hover:before {
-  border-color: #49b1f5;
+  border-color: #368d27;
 }
 .article-sort-item.year:before {
-  border-color: var(--pseudo-hover);
+  border-color: #9ac992;
 }
 .article-sort-item-time {
   color: var(--card-meta);
@@ -2335,7 +2335,7 @@ figure.highlight pre .javascript .function {
   -webkit-line-clamp: 2;
 }
 .article-sort-item-title:hover {
-  color: #49b1f5;
+  color: #368d27;
   -webkit-transform: translateX(10px);
   -moz-transform: translateX(10px);
   -o-transform: translateX(10px);
@@ -4303,7 +4303,7 @@ figure.highlight pre .javascript .function {
   line-height: 1.5;
 }
 #page-header #site-title {
-  margin: 0;
+  margin: -135px;
   color: var(--white);
   font-size: 1.85em;
   -webkit-line-clamp: 3;
