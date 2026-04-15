@@ -4303,7 +4303,15 @@ figure.highlight pre .javascript .function {
   line-height: 1.5;
 }
 #page-header #site-title {
+  position: absolute;
   margin: 0px;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   color: var(--white);
   font-size: 1.85em;
   -webkit-line-clamp: 3;
