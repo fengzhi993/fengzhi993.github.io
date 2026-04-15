@@ -4284,7 +4284,6 @@ figure.highlight pre .javascript .function {
   height: 100%;
   background-color: var(--mark-bg);
   content: '';
-  background: #fff;
 }
 #page-header.full_page {
   height: 100vh;
