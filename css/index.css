@@ -5687,7 +5687,7 @@ figure.highlight pre .javascript .function {
   margin-bottom: 5px;
   width: 35px;
   height: 35px;
-  background-color: var(--btn-bg);
+  background-color: #9ac992;
   color: var(--btn-color);
   text-align: center;
   font-size: 16px;
@@ -5696,7 +5696,7 @@ figure.highlight pre .javascript .function {
 }
 #rightside > div > button:hover,
 #rightside > div > a:hover {
-  background-color: var(--btn-hover-color);
+  background-color: #368d27;
 }
 #rightside > div > button i,
 #rightside > div > a i {
