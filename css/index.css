@@ -4284,6 +4284,9 @@ figure.highlight pre .javascript .function {
   height: 100%;
   background-color: var(--mark-bg);
   content: '';
+  opacity: 0.6;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+  filter: alpha(opacity=60);
 }
 #page-header.full_page {
   height: 100vh;
